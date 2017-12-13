@@ -97,7 +97,7 @@ def targeted_attack(img, label):
     return result.cpu(), adv.cpu()
 
 
-img = load_image('llama.jpg')  # 'input.png'
+img = load_image('img/car1.jpg')
 adv_img, noise = non_targeted_attack(img)
 draw_result(img, noise, adv_img)
 
