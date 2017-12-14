@@ -1,5 +1,5 @@
 # adversarial-attacks
-Uses [PyTorch](http://pytorch.org/) to generate adversarial images against Google's Inception v3 model. Code based off [Roman Trusov's repo](https://github.com/Lextal/adv-attacks-pytorch-101). Experiments were run in support of the paper [Adversarial Attacks in Machine Learning](https://github.com/cgyulay/adversarial-attacks/blob/master/paper/main.pdf).
+Uses [PyTorch](http://pytorch.org/) to generate adversarial images against Google's [Inception v3 model](https://arxiv.org/abs/1512.00567). Code based off [Roman Trusov's repo](https://github.com/Lextal/adv-attacks-pytorch-101). Experiments were run in support of the paper [Adversarial Attacks in Machine Learning](https://github.com/cgyulay/adversarial-attacks/blob/master/paper/main.pdf).
 
 ## Usage
 
